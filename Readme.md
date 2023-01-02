@@ -21,7 +21,7 @@ Telegram: https://t.me/artpogorelov62
 8.	[Домашнее задание по теме "Жизненный цикл разработки ПО. Гибкие методологии разработки ПО"](https://docs.google.com/document/d/1T0Q-6slgE51ViiBwKnkKbW5b0BBGyPgkHvNGKOFB3iI/edit?usp=sharing)
 * GIT - система контроля версий
 1.	[Домашнее задание по теме «Работа с удаленным репозиторием через GitHub»](https://github.com/Artpogorelov/-GitHub.git)
-2.  [Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.1»](https://github.com/Artpogorelov/2dz.git) [Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.1»Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.2»](https://github.com/Artpogorelov/2-.git)
-3.	[пример](http://example.com/ "Необязательная подсказка")
+2.  [Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.1»](https://github.com/Artpogorelov/2dz.git)  [Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.2»](https://github.com/Artpogorelov/2-.git)
+3.  [Домашнее задание по теме «Командная работа в Git и GitHub. Часть 2.1»](https://github.com/netology-code/git-2-homeworks-issues.git)  [Домашнее задание по теме «Командная работа в Git и GitHub. Часть 2.2»](https://github.com/Artpogorelov/git-2-homeworks-pr.git")  [Домашнее задание по теме «Командная работа в Git и GitHub. Часть 2.3»](https://artpogorelov.github.io/-3.3/)
 * Java для тестировщиков
 * Автоматизированное тестирование
