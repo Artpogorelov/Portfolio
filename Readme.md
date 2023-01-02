@@ -53,8 +53,4 @@ Telegram: https://t.me/artpogorelov62
 7.	 [Домашнее задание к занятию «Репортинг: Report Portal»](https://github.com/Artpogorelov/Dz_4.9.git)
 ***
 #  Мною были получены сертификаты #
-* [Ручное тестирование веб приложений](https://netology.ru/backend/api/user/programs/27470/pdf_certificate)
-* [GIT - система контроля версий](https://netology.ru/backend/api/user/programs/30035/pdf_certificate)
-* [Java для тестировщиков](https://netology.ru/backend/api/user/programs/30383/pdf_certificate)
-* [Автоматизированное тестирование](https://netology.ru/backend/api/user/programs/30397/pdf_certificate)
-
+![Автоматизированное тестирование](https://github.com/Artpogorelov/Portfolio/blob/main/certificate.pdf)
