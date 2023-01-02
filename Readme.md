@@ -53,4 +53,11 @@ Telegram: https://t.me/artpogorelov62
 7.	 [Домашнее задание к занятию «Репортинг: Report Portal»](https://github.com/Artpogorelov/Dz_4.9.git)
 ***
 #  Мною были получены сертификаты #
-![Автоматизированное тестирование](https://github.com/Artpogorelov/Portfolio/blob/main/certificate.pdf)
+
+* ![Ручное тестирование веб приложений](https://github.com/Artpogorelov/Portfolio/blob/main/certificate%20(3).pdf)
+* ![GIT - система контроля версий](https://github.com/Artpogorelov/Portfolio/blob/main/certificate%20(2).pdf)
+* ![Java для тестировщиков](https://github.com/Artpogorelov/Portfolio/blob/main/certificate%20(1).pdf)
+* ![Автоматизированное тестирование](https://github.com/Artpogorelov/Portfolio/blob/main/certificate.pdf)
+
+
+
