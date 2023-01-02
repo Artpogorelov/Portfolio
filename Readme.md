@@ -20,5 +20,8 @@ Telegram: https://t.me/artpogorelov62
 ![Альтернативный текст](https://u.netology.ru/backend/uploads/lms/tasks/homework_solutions/hashed_file/2/1885912/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0__32_.png?ts=1656862461"Подсказка")
 8.	[Домашнее задание по теме "Жизненный цикл разработки ПО. Гибкие методологии разработки ПО"](https://docs.google.com/document/d/1T0Q-6slgE51ViiBwKnkKbW5b0BBGyPgkHvNGKOFB3iI/edit?usp=sharing)
 * GIT - система контроля версий
+1.	[Домашнее задание по теме «Работа с удаленным репозиторием через GitHub»](https://github.com/Artpogorelov/-GitHub.git)
+2.  [Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.1»](https://github.com/Artpogorelov/2dz.git) [Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.1»Домашнее задание к занятию «Командная работа в Git и GitHub. Часть 1.2»](https://github.com/Artpogorelov/2-.git)
+3.	[пример](http://example.com/ "Необязательная подсказка")
 * Java для тестировщиков
 * Автоматизированное тестирование
